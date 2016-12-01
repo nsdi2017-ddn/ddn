@@ -1,4 +1,6 @@
-Codes for DDN's frontend cluster.
+This directory archives Pytheas implementation prior to NSDI submission.
+
+The newest version of Pytheas code is available at https://github.com/nsdi2017-ddn/pytheas
 
 # Table of Contents
 1. [Environment](#Environment)
